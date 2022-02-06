@@ -1,4 +1,3 @@
-import { red } from "@material-ui/core/colors";
 import { useState } from "react";
 import { useLocation } from "react-router-dom";
 import styled from "styled-components";
